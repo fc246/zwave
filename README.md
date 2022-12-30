@@ -1,4 +1,4 @@
-\title{SerialGateway}
+#### SerialGateway
 
 ### Table of Contents
   <ol>
